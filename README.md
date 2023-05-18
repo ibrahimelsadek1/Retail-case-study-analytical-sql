@@ -7,11 +7,17 @@ Customers has purchasing transaction that we shall be monitoring to get intuitio
 customer behavior to target the customers in the most efficient and proactive way, to increase
 sales/revenue , improve customer retention and decrease churn.
 
+**Part 1:**
+- Sales Report
+- Most Purchased product in invoices
+- Discounts Offering decision
+- Customers churn rate
+- average discount percentage for product
+- Most frequent combination of products
 
 
 
-
-**part 2**
+**part 2:**
 
 implement a Monetary model for customers behavior for product purchasing and segment each customer based on the below
 groups
