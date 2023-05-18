@@ -8,6 +8,11 @@ customer behavior to target the customers in the most efficient and proactive wa
 sales/revenue , improve customer retention and decrease churn.
 
 
+
+
+
+**part 2
+
 implement a Monetary model for customers behavior for product purchasing and segment each customer based on the below
 groups
 
