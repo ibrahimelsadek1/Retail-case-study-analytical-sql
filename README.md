@@ -38,3 +38,7 @@ As there are many groups for each of the R, F, and M features, there are also ma
 permutations, this number is too much to manage in terms of marketing strategies.
 For this, we would decrease the permutations by getting the average scores of the
 frequency and monetary (as both of them are indicative to purchase volume anyway)
+
+
+**part 3:**
+The maximum number of consecutive days a customer made purchases
